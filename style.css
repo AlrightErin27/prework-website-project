@@ -1,3 +1,23 @@
 body {
-  background-color: blue;
+  background-color: rgb(162, 162, 231);
+  font-size: 2rem;
+  text-align: center;
+  font-family: "Abril Fatface", cursive;
+  color: rgb(7, 43, 102);
+}
+.fish-container {
+  /* border: 3px solid rgb(255, 255, 255); */
+  margin: 2rem 10rem 2rem 10rem;
+  min-height: 12rem;
+  min-width: 12rem;
+  background-color: black;
+  padding: 6rem;
+}
+button {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 50px;
+  padding: 12px 20px 12px 20px;
+  background-color: rgb(94, 204, 207);
+  border-radius: 5%;
+  border: 2px solid black;
 }
