@@ -1,23 +1,24 @@
 body {
-  background-color: rgb(162, 162, 231);
+  background-color: rgb(50, 138, 104);
   font-size: 2rem;
   text-align: center;
   font-family: "Abril Fatface", cursive;
-  color: rgb(7, 43, 102);
+  color: rgba(7, 28, 61, 0.534);
 }
-.fish-container {
+#fish-container {
   /* border: 3px solid rgb(255, 255, 255); */
   margin: 2rem 10rem 2rem 10rem;
-  min-height: 12rem;
-  min-width: 12rem;
-  background-color: black;
+  min-height: 9rem;
+  min-width: 9rem;
+  /* background-color: black; */
   padding: 6rem;
 }
 button {
   font-family: "Josefin Sans", sans-serif;
-  font-size: 50px;
+  font-size: 60px;
   padding: 12px 20px 12px 20px;
-  background-color: rgb(94, 204, 207);
+  background-color: rgba(94, 203, 207, 0.363);
   border-radius: 5%;
-  border: 2px solid black;
+  border: 2px solid rgba(0, 0, 0, 0.322);
+  cursor: pointer;
 }
